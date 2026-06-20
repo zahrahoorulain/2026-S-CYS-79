@@ -1,0 +1,10 @@
+l=(1,"ali",45)
+print(1)
+list.append[1]
+print(1)
+list.remove["ali"]
+print(1)
+list.pop()
+print(1)
+list.pop(0)
+print(1)
